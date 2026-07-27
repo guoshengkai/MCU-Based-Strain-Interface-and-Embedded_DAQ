@@ -8,6 +8,7 @@ This project demonstrates a STM32-based embedded strain sensing system integrati
 ## Overview
 
 This project demonstrates a STM32-based embedded strain sensing system integrating analogue strain conditioning circuits and real-time microcontroller data acquisition.
+This open-source code was produced with the support/sponsorship of the UKRI-funded AVATAR project. Demo video here:  https://www.linkedin.com/feed/update/urn:li:activity:7425270364093599744/
 
 The firmware converts ADC measurements from a Wheatstone bridge strain interface into calibrated strain values (με).
 
