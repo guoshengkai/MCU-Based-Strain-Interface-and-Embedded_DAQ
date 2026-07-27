@@ -1,3 +1,5 @@
+<img width="4796" height="5017" alt="Hardware signal chain and single-channel strain amplifier (a) system block diagram, (b) circuit schematic" src="https://github.com/user-attachments/assets/e3900bb1-69e8-4fa9-a503-231fe71aa835" />
+
 # MCU-Based-Strain-Interface-and-Embedded_DAQ
 This project demonstrates a STM32-based embedded strain sensing system integrating analogue strain conditioning circuits and real-time microcontroller data acquisition.  The firmware converts ADC measurements from a Wheatstone bridge strain interface into calibrated strain values (με).
 # STM32 Strain Interface and Embedded DAQ System
